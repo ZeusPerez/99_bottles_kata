@@ -45,9 +45,12 @@ Ping-Pong Pair Programming:
 
 You want a metric to check how good is your code? There is no metric that can say which code is better, but I usually take a look at my [flog](https://github.com/seattlerb/flog) score (with is a variant of ABC), although it can't measure some good practices like better abstractions.
 
-Did you finish and want an extra requirement? Here you have it:
->! output "1 six-pack" in each place where it currently says "6
-bottles."
+
+<details><summary>Did you finish and want an extra requirement? Here you have it:</summary>
+  <p>
+   output "1 six-pack" in each place where it currently says "6 bottles."
+  </p>
+</details>
 
 If you want to see a very good solution and an evolution of the different approaches for this exercise I recommend you to read [99 Bottles of OOP](https://www.sandimetz.com/99bottles/), in which this exercise and my suggestions are based.
 
