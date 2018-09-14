@@ -50,7 +50,9 @@ You want a metric to check how good is your code? There is no metric that can sa
   <p>
    output "1 six-pack" in each place where it currently says "6 bottles."
   </p>
-</details>
+</details><br><br>
+ 
+ 
 
 If you want to see a very good solution and an evolution of the different approaches for this exercise I recommend you to read [99 Bottles of OOP](https://www.sandimetz.com/99bottles/), in which this exercise and my suggestions are based.
 
