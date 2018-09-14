@@ -50,7 +50,7 @@ You want a metric to check how good is your code? There is no metric that can sa
   <p>
    output "1 six-pack" in each place where it currently says "6 bottles."
   </p>
-</details>
+</details><br><br>
  
  
 
