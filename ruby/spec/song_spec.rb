@@ -1,4 +1,4 @@
-require 'rspec'
+require 'spec_helper'
 
 describe Song do
   let(:song) { File.read("spec/full_song.txt") }
